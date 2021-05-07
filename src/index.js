@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { StatusBar, ScrollView } from 'react-native';
+import { StatusBar, ScrollView, ActivityIndicator } from 'react-native';
 
 import api from './services/api';
 import apiTv from './services/apiTv';
@@ -73,6 +73,7 @@ function App () {
         }
         />
       </ScrollView>
+      
     </Container>
   );
 };
