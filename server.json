@@ -1,0 +1,112 @@
+{
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/9yBVqNruk6Ykrwc32qrK2TIE5xw.jpg",
+            "genre_ids": [
+                28,
+                14,
+                12,
+                878
+            ],
+            "original_language": "en",
+            "original_title": "Mortal Kombat",
+            "poster_path": "/w8BVC3qrCWCiTHRz4Rft12dtQF0.jpg",
+            "vote_count": 2120,
+            "id": 460465,
+            "vote_average": 7.8,
+            "video": false,
+            "overview": "Nova aventura baseada no videogame Mortal Kombat. Na história, um jovem que nunca treinou artes marciais acaba envolvido em um gigantesco torneio de luta envolvendo guerreiros da Terra e lutadores e outras dimensões.",
+            "release_date": "2021-04-07",
+            "title": "Mortal Kombat",
+            "popularity": 4340.628,
+            "media_type": "movie"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fPGeS6jgdLovQAKunNHX8l0avCy.jpg",
+            "genre_ids": [
+                28,
+                12,
+                53,
+                10752
+            ],
+            "id": 567189,
+            "original_language": "en",
+            "original_title": "Tom Clancy's Without Remorse",
+            "overview": "Um agente da CIA busca vingança depois de sua namorada ter sido morta por um traficante de Baltimore.",
+            "poster_path": "/uHEZ4ZMziIjlAgCTQAEh9ROvtj0.jpg",
+            "release_date": "2021-04-29",
+            "title": "Sem Remorso",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 538,
+            "popularity": 1110.522,
+            "media_type": "movie"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/inJjDhCjfhh3RtrJWBmmDqeuSYC.jpg",
+            "genre_ids": [
+                878,
+                28,
+                18
+            ],
+            "id": 399566,
+            "original_language": "en",
+            "original_title": "Godzilla vs. Kong",
+            "overview": "Em uma época em que os monstros andam na Terra, a luta da humanidade por seu futuro coloca Godzilla e Kong em rota de colisão que verá as duas forças mais poderosas da natureza no planeta se confrontarem em uma batalha espetacular para as idades. Enquanto Monarch embarca em uma missão perigosa em terreno desconhecido e descobre pistas sobre as origens dos Titãs, uma conspiração humana ameaça tirar as criaturas, boas e más, da face da terra para sempre.",
+            "poster_path": "/klAIFewuqcyEmH1SMtR2XbMyqzM.jpg",
+            "release_date": "2021-03-24",
+            "title": "Godzilla vs. Kong",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 5285,
+            "popularity": 2385.595,
+            "media_type": "movie"
+        },
+        {
+            "genre_ids": [
+                16,
+                12,
+                35,
+                10751,
+                878
+            ],
+            "overview": "Katie Mitchell é aceita na faculdade de cinema dos seus sonhos e seu pai decide aproveitar para realizar uma viagem em família para levá-la à universidade. Porém, seus planos são interrompidos por uma revolução robótica e agora os Mitchells terão que unir forças em família para trabalhar juntos para salvar o mundo.",
+            "original_title": "The Mitchells vs. The Machines",
+            "poster_path": "/gmnAu2G9EvHbUYTiT6eNd6XlaBx.jpg",
+            "video": false,
+            "vote_average": 8.1,
+            "id": 501929,
+            "vote_count": 311,
+            "release_date": "2021-04-22",
+            "title": "A Família Mitchell e a Revolta das Máquinas",
+            "adult": false,
+            "backdrop_path": "/5g0gisu56NsCGiMa00HWINbc25X.jpg",
+            "original_language": "en",
+            "popularity": 293.737,
+            "media_type": "movie"
+        },
+        {
+            "title": "Nomadland",
+            "adult": false,
+            "backdrop_path": "/bjjZXrP8PEdFeJkKERc62xlarMI.jpg",
+            "id": 581734,
+            "original_language": "en",
+            "original_title": "Nomadland",
+            "poster_path": "/589uhtJOujc72fgNl6HcMYJS64D.jpg",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 880,
+            "overview": "Após o colapso econômico de uma cidade na zona rural de Nevada, nos Estados Unidos, Fern, uma mulher de 60 anos, entra em sua van e parte para a estrada, vivendo uma vida fora da sociedade convencional como uma nômade moderna.",
+            "release_date": "2021-01-29",
+            "genre_ids": [
+                18,
+                37
+            ],
+            "popularity": 211.702,
+            "media_type": "movie"
+        }
+    ]
+}
