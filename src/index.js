@@ -1,14 +1,18 @@
 import React, { useState, useEffect } from 'react';
-import { Image, Text } from 'react-native';
+import { StatusBar, ScrollView } from 'react-native';
 
 import api from './services/api';
+import apiTv from './services/apiTv';
+
 
 import {
   Container,
   TextContainer,
-  TextPage,
+  PageText,
   FilmsList,
   PosterImage,
+  SectionContainer,
+  SectionText,
 } from './styles'
 
 
@@ -23,23 +27,52 @@ function App () {
     loadFilms();
   }, []);
 
+  const [tv, setTv] = useState([]);
+
+  useEffect(() => {
+    async function loadTv() {
+      const { data } = await apiTv.get('/results');
+      setTv(data);
+    }
+    loadTv();
+  }, [])
 
   const url = 'https://image.tmdb.org/t/p/w500';
 
   return(
     <Container>
+      <StatusBar barStyle='light-content' />
       <TextContainer>
-        <TextPage>THE MOVIE</TextPage>
+        <PageText>TRENDINGS</PageText>
       </TextContainer>
-      <FilmsList
-        data={films}
-        keyExtractor={(item) => item.id}
-        
-        renderItem={({item}) => (
-          <PosterImage source={{uri: 'https://image.tmdb.org/t/p/w500'+item.poster_path}} />
-        )
-      }
-      />    
+      <ScrollView>
+        <SectionContainer>
+          <SectionText>movies</SectionText>
+        </SectionContainer>
+        <FilmsList
+          data={films}
+          keyExtractor={(item) => item.id}
+          directionalLockEnabled='true'
+          horizontal={true}
+          renderItem={({item}) => (
+            <PosterImage source={{uri: 'https://image.tmdb.org/t/p/w500'+item.poster_path}} />
+          )
+        }
+        />
+        <SectionContainer>
+          <SectionText>tv shows</SectionText>
+        </SectionContainer>
+        <FilmsList
+          data={tv}
+          keyExtractor={(item) => item.id}
+          directionalLockEnabled='true'
+          horizontal={true}
+          renderItem={({item}) => (
+            <PosterImage source={{uri: 'https://image.tmdb.org/t/p/w500'+item.poster_path}} />
+          )
+        }
+        />
+      </ScrollView>
     </Container>
   );
 };

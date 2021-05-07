@@ -107,6 +107,324 @@
             ],
             "popularity": 211.702,
             "media_type": "movie"
+        },
+        {
+            "original_title": "Nobody",
+            "poster_path": "/woPYFGKwVULILbO7q44HmsNY0kO.jpg",
+            "video": false,
+            "id": 615457,
+            "overview": "Quando dois ladrões invadem sua casa no subúrbio uma noite, Hutch se recusa a defender a si mesmo ou a sua família, na esperança de evitar violência grave. Seu filho adolescente, Blake, está desapontado com ele e sua esposa, Becca, parece se afastar ainda mais.  Em consequência, o incidente acerta a raiva latente de Hutch, desencadeando instintos adormecidos e impulsionando-o em um caminho brutal que revelará segredos obscuros e habilidades letais para salvar sua família.",
+            "release_date": "2021-03-26",
+            "title": "Anônimo",
+            "adult": false,
+            "backdrop_path": "/6zbKgwgaaCyyBXE4Sun4oWQfQmi.jpg",
+            "vote_count": 1181,
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "vote_average": 8.5,
+            "original_language": "en",
+            "popularity": 2061.746,
+            "media_type": "movie"
+        },
+        {
+            "genre_ids": [
+                16,
+                28,
+                12,
+                14,
+                18
+            ],
+            "overview": "Tanjiro Kamado, junto com Inosuke Hashibira, um garoto criado por javalis que usa uma cabeça de javali, e Zenitsu Agatsuma, um garoto assustado que revela seu verdadeiro poder quando dorme, embarca no Trem Infinito em uma nova missão com o Hashira de Fogo, Kyojuro Rengoku, para derrotar um demônio que tem atormentado o povo e matado os caçadores de oni que se opõem a ele!",
+            "original_title": "劇場版「鬼滅の刃」無限列車編",
+            "poster_path": "/m9cn5mhW519QKr1YGpGxNWi98VJ.jpg",
+            "video": false,
+            "vote_average": 8.3,
+            "id": 635302,
+            "vote_count": 828,
+            "release_date": "2020-10-16",
+            "title": "Demon Slayer: O Trem Infinito",
+            "adult": false,
+            "backdrop_path": "/xPpXYnCWfjkt3zzE0dpCNME1pXF.jpg",
+            "original_language": "ja",
+            "popularity": 1691.258,
+            "media_type": "movie"
+        },
+        {
+            "overview": "Depois de trocar a cidade grande pelo interior, uma mulher descobre que seu marido e sua casa nova escondem segredos sinistros.",
+            "release_date": "2021-04-29",
+            "title": "Vozes e Vultos",
+            "id": 631060,
+            "adult": false,
+            "backdrop_path": "/owOBJlzH3j3YHUbr3XqSH10CWzo.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                18,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Things Heard \u0026 Seen",
+            "poster_path": "/bsxQvbWiBa13Vsas5Sj0JhR73QF.jpg",
+            "vote_count": 213,
+            "video": false,
+            "vote_average": 6.0,
+            "popularity": 106.946,
+            "media_type": "movie"
+        },
+        {
+            "video": false,
+            "vote_average": 6.1,
+            "overview": "Três pessoas em uma missão de dois anos para Marte enfrentam um dilema fatal depois que um passageiro inesperado coloca todos em risco.",
+            "release_date": "2021-04-22",
+            "title": "Passageiro Acidental",
+            "adult": false,
+            "backdrop_path": "/lLUTG4e3asScennW3qryoXjG48Q.jpg",
+            "genre_ids": [
+                18,
+                878,
+                53
+            ],
+            "vote_count": 407,
+            "original_language": "en",
+            "original_title": "Stowaway",
+            "poster_path": "/n91IdvTOxogvs08HN0mYK7nY5T7.jpg",
+            "id": 559581,
+            "popularity": 466.12,
+            "media_type": "movie"
+        },
+        {
+            "original_title": "Zack Snyder's Justice League",
+            "poster_path": "/ArWn6gCi61b3b3hclD2L0LOk66k.jpg",
+            "video": false,
+            "id": 791373,
+            "overview": "Determinado a garantir que o sacrifício final do Superman não foi em vão, Bruce Wayne alinha forças com Diana Prince com planos de recrutar uma equipe de metahumanos para proteger o mundo de uma ameaça de proporções catastróficas que se aproxima.",
+            "release_date": "2021-03-18",
+            "title": "Liga da Justiça de Zack Snyder",
+            "adult": false,
+            "backdrop_path": "/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
+            "vote_count": 5313,
+            "genre_ids": [
+                28,
+                12,
+                14,
+                878
+            ],
+            "vote_average": 8.5,
+            "original_language": "en",
+            "popularity": 1435.879,
+            "media_type": "movie"
+        },
+        {
+            "overview": "Um grupo de jovens é enviado ao espaço numa missão para povoar um planeta recém descoberto. Depois que o capitão da missão é misteriosamente morto, a jovem tripulação vai ao caos, revertendo para um estado primitivo, tribal, e cedendo aos seus desejos mais selvagens.",
+            "release_date": "2021-04-08",
+            "title": "Voyagers",
+            "id": 597890,
+            "adult": false,
+            "backdrop_path": "/9dBSwftCzkC4K4zgMZTwcm58VUR.jpg",
+            "genre_ids": [
+                878,
+                10749,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Voyagers",
+            "poster_path": "/gn2vCmWO7jQBBto9SYuBHYZARaU.jpg",
+            "vote_count": 50,
+            "video": false,
+            "vote_average": 6.4,
+            "popularity": 121.624,
+            "media_type": "movie"
+        },
+        {
+            "overview": "A viagem relaxante de Barry Allen para Metrópolis está prestes a dar errado. Enquanto corre para ajudar em uma luta inesperada, o Flash rompe as barreiras do tempo, e acaba parando no meio da Segunda Guerra Mundial. É lá que o Flash conhece a Mulher Maravilha e a equipe supersecreta dela, conhecida como Sociedade da Justiça da América. Testemunhe os rumos turbulentos da guerra, combates envolventes e a velocidade da honra enquanto o Flash luta para voltar ao seu próprio tempo!",
+            "release_date": "2021-04-27",
+            "adult": false,
+            "backdrop_path": "/8LHSDyRizQ4kQz5rEHPKyXPvMG3.jpg",
+            "vote_count": 142,
+            "genre_ids": [
+                16,
+                10752,
+                878
+            ],
+            "original_title": "Justice Society: World War II",
+            "original_language": "en",
+            "id": 736069,
+            "poster_path": "/haFimehtZoP6rSz53kEqXSKianS.jpg",
+            "title": "Sociedade da Justiça: 2ª Guerra Mundial",
+            "video": false,
+            "vote_average": 8.3,
+            "popularity": 1104.475,
+            "media_type": "movie"
+        },
+        {
+            "overview": "Um fazendeiro na fronteira do Arizona se torna o improvável defensor de um jovem mexicano que foge desesperadamente dos assassinos do cartel que o perseguiram até os EUA.",
+            "release_date": "2021-01-15",
+            "title": "Na Mira do Perigo",
+            "adult": false,
+            "backdrop_path": "/5Zv5KmgZzdIvXz2KC3n0MyecSNL.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 634528,
+            "original_language": "en",
+            "original_title": "The Marksman",
+            "poster_path": "/wAJniojhHa4oVKa9AxdNwvpmS74.jpg",
+            "vote_count": 374,
+            "video": false,
+            "vote_average": 7.5,
+            "popularity": 1225.426,
+            "media_type": "movie"
+        },
+        {
+            "overview": "Um gato de rua chamado Tom é contratado por uma garota chamada Kayla, uma jovem empregada que trabalha em um hotel glamouroso em Nova York, para se livrar de Jerry, um rato travesso que se mudou para o hotel, antes que ele seja a ruína de um importante casamento.",
+            "release_date": "2021-02-11",
+            "title": "Tom \u0026 Jerry - O Filme",
+            "adult": false,
+            "backdrop_path": "/9ns9463dwOeo1CK1JU2wirL5Yi1.jpg",
+            "genre_ids": [
+                35,
+                10751,
+                16
+            ],
+            "id": 587807,
+            "original_language": "en",
+            "original_title": "Tom \u0026 Jerry",
+            "poster_path": "/9NvYyM8H6d5KAVGqpyFV9YPO5cU.jpg",
+            "vote_count": 1303,
+            "video": false,
+            "vote_average": 7.3,
+            "popularity": 695.188,
+            "media_type": "movie"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3pIqd1hgZ2xqzWEyiYp4blqE9Fi.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 522241,
+            "original_language": "en",
+            "original_title": "The Courier",
+            "overview": "Durante a Guerra Fria, diversos civis atuaram como espiões para impedir o avanço soviético no mundo. Greville Wynne, um engenheiro elétrico britânico, foi um desses homens recrutados pelo Serviço de Inteligência Militar Britânico, O MI5. Através de informações cruciais obtidas por uma de suas fontes, Wynne conseguiu determinar o fim da Crise dos Mísseis de Cuba, em 1962.",
+            "poster_path": "/ydMTW0cK6enMEVX7fJGWjFzfscm.jpg",
+            "release_date": "2020-09-27",
+            "title": "O Espião Inglês",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 65,
+            "popularity": 35.659,
+            "media_type": "movie"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3Ef8PWUiP1ehO1ESEroxb736srR.jpg",
+            "genre_ids": [
+                53,
+                28,
+                80
+            ],
+            "id": 808023,
+            "original_language": "en",
+            "original_title": "The Virtuoso",
+            "overview": "Um estranho solitário, seguro, com nervos de aço, deve rastrear e matar um Hitman desonesto para saldar uma dívida pendente. Mas a única informação que ele recebeu é a hora e o local onde encontrar sua presa - 17h em um restaurante rústico na cidade agonizante. Sem nome, sem descrição, nada. Quando o assassino chega, existem vários alvos possíveis, incluindo o xerife do condado. Colocando sua vida em perigo, o assassino embarca em uma caça ao homem para encontrar o Hitman e cumprir sua missão. Mas o perigo aumenta quando os encontros eróticos com uma mulher local ameaçam atrapalhar sua tarefa.",
+            "poster_path": "/vXHzO26mJaOt4VO7ZFiM6No5ScT.jpg",
+            "release_date": "2021-04-30",
+            "title": "The Virtuoso",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 19,
+            "popularity": 84.955,
+            "media_type": "movie"
+        },
+        {
+            "overview": "Um idoso sofre com as confusões da própria mente e rejeita qualquer ajuda. Enquanto isso, sua filha tenta lidar com a perda do pai que está vivo, mas cada dia mais longe.",
+            "release_date": "2020-12-23",
+            "title": "Meu Pai",
+            "adult": false,
+            "backdrop_path": "/h3weAFgg06GqchI2xDfufBgSFTj.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 600354,
+            "original_language": "en",
+            "original_title": "The Father",
+            "poster_path": "/85d7NFk3BnoaJr1NnH3gLl2lRCU.jpg",
+            "vote_count": 604,
+            "video": false,
+            "vote_average": 8.3,
+            "popularity": 92.342,
+            "media_type": "movie"
+        },
+        {
+            "vote_average": 8.2,
+            "overview": "O reino encantado Kumandra é dividido em cinco regiões e sua população venerava os dragões mágicos que eram presentes no reino, porém quando uma força maligna ameaçou a Terra, os dragões se sacrificaram para salvar a humanidade. Agora, 500 anos depois, o mesmo mal voltou e cabe a uma guerreira solitária, Raya, rastrear o lendário último dragão para restaurar a terra fraturada e seu povo dividido.",
+            "release_date": "2021-03-03",
+            "adult": false,
+            "backdrop_path": "/7prYzufdIOy1KCTZKVWpjBFqqNr.jpg",
+            "vote_count": 2652,
+            "genre_ids": [
+                16,
+                12,
+                14,
+                10751,
+                28
+            ],
+            "id": 527774,
+            "original_language": "en",
+            "original_title": "Raya and the Last Dragon",
+            "poster_path": "/yXrb84zJidCefyhTWHwo4yCDvwz.jpg",
+            "title": "Raya e o Último Dragão",
+            "video": false,
+            "popularity": 1182.434,
+            "media_type": "movie"
+        },
+        {
+            "genre_ids": [
+                35,
+                28,
+                12,
+                14
+            ],
+            "overview": "Após o mundo ser invadido por monstros, Joel terá de se aventurar por metade do país, em meio a todo tipo de perigos, para tentar encontrar o amor da sua vida.",
+            "original_title": "Love and Monsters",
+            "poster_path": "/hnz5wRqeYKlugGbC7RZxC7DAiED.jpg",
+            "video": false,
+            "vote_average": 7.4,
+            "id": 590223,
+            "vote_count": 1822,
+            "release_date": "2020-10-16",
+            "title": "Amor e Monstros",
+            "adult": false,
+            "backdrop_path": "/lA5fOBqTOQBQ1s9lEYYPmNXoYLi.jpg",
+            "original_language": "en",
+            "popularity": 102.444,
+            "media_type": "movie"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fatz1aegtBGh7KS0gipcsw9MqUn.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 583406,
+            "original_language": "en",
+            "original_title": "Judas and the Black Messiah",
+            "overview": "A história de Fred Hampton, um dos líderes do Partido dos Panteras Negras, que foi assassinado em 1969 sob as ordens do FBI, que coagiu um pequeno criminoso chamado William O'Neal para ajudá-los a silenciar Hampton.",
+            "poster_path": "/4ep2AOWNbVeS0EKLpOBKcIZ8hZS.jpg",
+            "release_date": "2021-02-12",
+            "title": "Judas e o Messias Negro",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 519,
+            "popularity": 87.078,
+            "media_type": "movie"
         }
     ]
 }

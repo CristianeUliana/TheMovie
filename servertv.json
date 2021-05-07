@@ -1,0 +1,439 @@
+{
+    "results": [
+        {
+            "overview": "Após os eventos de \"Vingadores: Ultimato\", Sam Wilson/Falcão e Bucky Barnes/Soldado Invernal se unem em uma aventura que testa suas habilidades - e a paciência.",
+            "original_name": "The Falcon and the Winter Soldier",
+            "origin_country": [
+                "US"
+            ],
+            "name": "Falcão e o Soldado Invernal",
+            "backdrop_path": "/b0WmHGc8LHTdGCVzxRb3IBMur57.jpg",
+            "first_air_date": "2021-03-19",
+            "id": 88396,
+            "original_language": "en",
+            "poster_path": "/w8Hi3GI4q1oR6EImrDWrAQFn8Ha.jpg",
+            "vote_count": 5286,
+            "genre_ids": [
+                10765,
+                10759,
+                18,
+                10768
+            ],
+            "vote_average": 7.9,
+            "popularity": 1857.575,
+            "media_type": "tv"
+        },
+        {
+            "backdrop_path": "/sjxtIUCWR74yPPcZFfTsToepfWm.jpg",
+            "first_air_date": "2021-05-04",
+            "genre_ids": [
+                10765,
+                10759,
+                16
+            ],
+            "id": 105971,
+            "name": "Star Wars: The Bad Batch",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Star Wars: The Bad Batch",
+            "overview": "Os Mal Feitos precisam encontrar seu caminho numa galáxia em rápida transformação.",
+            "poster_path": "/mMDYVkdrhTqpLSnmzF4MQ5pmrU4.jpg",
+            "vote_average": 9.1,
+            "vote_count": 67,
+            "popularity": 170.087,
+            "media_type": "tv"
+        },
+        {
+            "poster_path": "/vzKboKry7jmH17GgHnexcWX9HiQ.jpg",
+            "first_air_date": "2021-04-23",
+            "vote_average": 8.4,
+            "original_name": "Shadow and Bone",
+            "origin_country": [
+                "US"
+            ],
+            "id": 85720,
+            "name": "Sombra e Ossos",
+            "backdrop_path": "/8z9qQkx7wA6FXpLV8Tiw9mfsRFK.jpg",
+            "vote_count": 280,
+            "genre_ids": [
+                10765
+            ],
+            "overview": "Forças sinistras tramam contra uma jovem militar quando ela revela um poder mágico capaz de unir seu mundo.",
+            "original_language": "en",
+            "popularity": 171.758,
+            "media_type": "tv"
+        },
+        {
+            "backdrop_path": "/7bWVzZksjwGBBkmotSKuYk2odFl.jpg",
+            "first_air_date": "2021-05-07",
+            "genre_ids": [
+                10765,
+                10759,
+                18
+            ],
+            "id": 93484,
+            "name": "O Legado de Júpiter",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Jupiter's Legacy",
+            "overview": "A primeira geração desses super-heróis manteve o mundo seguro por quase um século. Mas será que seus filhos vão conseguir carregar esse legado?",
+            "poster_path": "/1RFKW55GHQShX07TdXFHvGFjZKI.jpg",
+            "vote_average": 10.0,
+            "vote_count": 4,
+            "popularity": 70.259,
+            "media_type": "tv"
+        },
+        {
+            "overview": "Gilead tem um regime que trata mulheres como propriedade. Offred é uma das poucas mulheres férteis e serva do Comandante, buscando sobreviver e encontrar a filha que foi tirada dela.",
+            "original_name": "The Handmaid's Tale",
+            "origin_country": [
+                "US"
+            ],
+            "backdrop_path": "/hNiGqLsiD30C194lci7VYDmciHD.jpg",
+            "genre_ids": [
+                10765,
+                18
+            ],
+            "vote_count": 1297,
+            "first_air_date": "2017-04-26",
+            "id": 69478,
+            "poster_path": "/17cRboikG0xwKroMoTZLFUMmplS.jpg",
+            "vote_average": 8.2,
+            "original_language": "en",
+            "name": "O Conto da Aia",
+            "popularity": 277.812,
+            "media_type": "tv"
+        },
+        {
+            "overview": "INVENCÍVEL é uma animação de super-heróis para adultos e conta a história de Mark Grayson, de 17 anos, um cara como qualquer outro de sua idade, exceto que seu pai é o super-herói mais poderoso do planeta, Omni-Man. Porém, à medida que Mark desenvolve seus próprios poderes, ele descobre que o legado de seu pai pode não ser tão heroico quanto parece.",
+            "original_name": "Invincible",
+            "origin_country": [
+                "US"
+            ],
+            "name": "Invencível",
+            "backdrop_path": "/6UH52Fmau8RPsMAbQbjwN3wJSCj.jpg",
+            "first_air_date": "2021-03-26",
+            "id": 95557,
+            "original_language": "en",
+            "poster_path": "/hXWGbKLfARbfFyMCQ90AQRGjEGo.jpg",
+            "vote_count": 1283,
+            "genre_ids": [
+                16,
+                10759,
+                18,
+                10765
+            ],
+            "vote_average": 8.9,
+            "popularity": 1937.807,
+            "media_type": "tv"
+        },
+        {
+            "vote_average": 8.9,
+            "name": "O Inocente",
+            "overview": "Uma morte acidental lança um homem em uma espiral de intrigas e assassinato. Ele encontra o amor e recupera a liberdade, mas um telefonema traz de volta o seu passado.",
+            "original_name": "El inocente",
+            "origin_country": [
+                "ES"
+            ],
+            "first_air_date": "2021-04-30",
+            "genre_ids": [
+                80,
+                9648,
+                18
+            ],
+            "id": 119988,
+            "original_language": "es",
+            "poster_path": "/1u6MAHNAgheFMxTt9YF9bz9KHQH.jpg",
+            "vote_count": 11,
+            "backdrop_path": "/gB9l7epUG4lZKe68bTdL6u6eZCK.jpg",
+            "popularity": 190.513,
+            "media_type": "tv"
+        },
+        {
+            "overview": "Em uma terra onde os verões podem durar vários anos e o inverno toda uma vida, sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra. Num cenário que lembra a Europa medieval, reis, rainhas, cavaleiros e renegados usam todos os meios possíveis em um jogo político pela disputa do Trono de Ferro, o símbolo do poder absoluto.",
+            "id": 1399,
+            "backdrop_path": "/suopoADq0k8YZr4dQXcU6pToj6s.jpg",
+            "vote_count": 14235,
+            "genre_ids": [
+                10765,
+                18,
+                10759
+            ],
+            "first_air_date": "2011-04-17",
+            "original_language": "en",
+            "original_name": "Game of Thrones",
+            "name": "Game of Thrones",
+            "poster_path": "/mQ9cyw1gfpK1M3a69cgXFHvWkih.jpg",
+            "origin_country": [
+                "US"
+            ],
+            "vote_average": 8.4,
+            "popularity": 582.288,
+            "media_type": "tv"
+        },
+        {
+            "genre_ids": [
+                18,
+                10759
+            ],
+            "original_language": "en",
+            "original_name": "The Mosquito Coast",
+            "origin_country": [
+                "US"
+            ],
+            "vote_average": 9.1,
+            "id": 93716,
+            "vote_count": 9,
+            "poster_path": "/j2wKFCP4nPL0wpjb4sjeYW6tLWz.jpg",
+            "overview": "Allie Fox, um inventor brilhante e idealista teimoso, leva a sua família para uma perigosa jornada pelo México para fugir do governo americano.",
+            "backdrop_path": "/hSoB7M5wMKqUKwI2k0hq9RJcOSU.jpg",
+            "first_air_date": "2021-04-30",
+            "name": "The Mosquito Coast",
+            "popularity": 29.012,
+            "media_type": "tv"
+        },
+        {
+            "backdrop_path": "/6x8vW5utEZahp6V3sSWxCTW0mHW.jpg",
+            "first_air_date": "2021-04-11",
+            "genre_ids": [
+                10765,
+                18
+            ],
+            "id": 80828,
+            "name": "The Nevers",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Nevers",
+            "overview": "Nos últimos anos do reinado de Vitória, Londres é abalada por um fenômeno sobrenatural que dá a certas pessoas habilidades excepcionais. Independentemente do tipo de poder, todo mundo que passa a fazer parte desse grupo corre sérios perigos. Cabe à Amalia True, uma viúva misteriosa e impulsiva, junto à Penance Adair, uma jovem inventora brilhante, proteger e abrigar esses \"órfãos\" habilidosos. Para isso, terão que enfrentar forças brutais determinadas a aniquilar sua espécie.",
+            "poster_path": "/v6Xmj8Fy7ZruVTz3y2Po7O0TQh4.jpg",
+            "vote_average": 8.6,
+            "vote_count": 219,
+            "popularity": 110.41,
+            "media_type": "tv"
+        },
+        {
+            "vote_average": 7.7,
+            "overview": "Barry enfrenta diversos assassinos que invadem a premiação onde ele acompanha Iris, mas os efeitos colaterais de seus novos superpoderes representam uma ameaça.",
+            "first_air_date": "2014-10-07",
+            "vote_count": 7519,
+            "backdrop_path": "/z59kJfcElR9eHO9rJbWp4qWMuee.jpg",
+            "original_name": "The Flash",
+            "genre_ids": [
+                18,
+                10765
+            ],
+            "id": 60735,
+            "original_language": "en",
+            "origin_country": [
+                "US"
+            ],
+            "poster_path": "/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg",
+            "name": "Flash",
+            "popularity": 1307.421,
+            "media_type": "tv"
+        },
+        {
+            "overview": "Mare Sheehan é uma detetive de uma pequena cidade na Pensilvânia que deve investigar um violento assassinato local. Conforme o lado sombrio da pequena comunidade vem à luz, a vida de Mare desmorona e relacionamentos familiares e tragédias do passado ressurgem para definir o presente.",
+            "original_name": "Mare of Easttown",
+            "origin_country": [
+                "US"
+            ],
+            "name": "Mare of Easttown",
+            "backdrop_path": "/whWHhs6p1YVMKDsH9yuvF2KR64d.jpg",
+            "first_air_date": "2021-04-18",
+            "id": 115004,
+            "original_language": "en",
+            "poster_path": "/4oVWbd2NKglFG9UO46VhW4v6nFD.jpg",
+            "vote_count": 81,
+            "genre_ids": [
+                18,
+                9648,
+                80
+            ],
+            "vote_average": 7.5,
+            "popularity": 57.548,
+            "media_type": "tv"
+        },
+        {
+            "overview": "Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e consequências de vida ou morte. É um no outro que eles encontram apoio, conforto, amizade e, às vezes, até mais que amizade... Juntos, eles descobrem o quanto a vida profissional e a pessoal podem ser complicadas e se misturarem no meio do caminho.",
+            "original_name": "Grey's Anatomy",
+            "origin_country": [
+                "US"
+            ],
+            "backdrop_path": "/edmk8xjGBsYVIf4QtLY9WMaMcXZ.jpg",
+            "genre_ids": [
+                18
+            ],
+            "vote_count": 5979,
+            "first_air_date": "2005-03-27",
+            "id": 1416,
+            "poster_path": "/1HAm7sxXu9eGVvs8BIAlkCKGaTd.jpg",
+            "vote_average": 8.2,
+            "original_language": "en",
+            "name": "Grey's Anatomy",
+            "popularity": 925.215,
+            "media_type": "tv"
+        },
+        {
+            "backdrop_path": "/n37Q4McCD6EpiZJICgsDJWUhkWE.jpg",
+            "first_air_date": "2021-04-29",
+            "genre_ids": [
+                16,
+                18,
+                10759,
+                10765
+            ],
+            "id": 112166,
+            "name": "Yasuke",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "ja",
+            "original_name": "Yasuke",
+            "overview": "Para proteger uma menininha que tem poderes misteriosos, o Samurai Negro, hoje um pacífico barqueiro, acaba se envolvendo em novas batalhas.",
+            "poster_path": "/EyrE3HJsMArVSORCnP0ooiAd9T.jpg",
+            "vote_average": 8.0,
+            "vote_count": 22,
+            "popularity": 34.031,
+            "media_type": "tv"
+        },
+        {
+            "overview": "Wanda Maximoff  e Visão, um casal de super-heróis com uma vida perfeita, que começa a suspeitar que nem tudo é o que parece.",
+            "id": 85271,
+            "backdrop_path": "/1i1N0AVRb54H6ZFPDTwbo9MLxSF.jpg",
+            "vote_count": 8365,
+            "genre_ids": [
+                10765,
+                9648,
+                18
+            ],
+            "first_air_date": "2021-01-15",
+            "original_language": "en",
+            "original_name": "WandaVision",
+            "name": "WandaVision",
+            "poster_path": "/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg",
+            "origin_country": [
+                "US"
+            ],
+            "vote_average": 8.4,
+            "popularity": 480.54,
+            "media_type": "tv"
+        },
+        {
+            "vote_average": 7.3,
+            "overview": "Para impedir um desastre, Kara Danvers revela seus poderes e sua verdadeira identidade: ela é a Supergirl, a protetora de National City e prima do Superman.",
+            "first_air_date": "2015-10-26",
+            "vote_count": 3028,
+            "backdrop_path": "/jgb9xICHFX8wTGQ75js4uNbttQs.jpg",
+            "original_name": "Supergirl",
+            "genre_ids": [
+                18,
+                10765,
+                10759
+            ],
+            "id": 62688,
+            "original_language": "en",
+            "origin_country": [
+                "US"
+            ],
+            "poster_path": "/vqBsgL9nd2v04ZvCqPzwtckDdFD.jpg",
+            "name": "Supergirl",
+            "popularity": 237.525,
+            "media_type": "tv"
+        },
+        {
+            "poster_path": "/reKs8y4mPwPkZG99ZpbKRhBPKsX.jpg",
+            "vote_average": 8.1,
+            "overview": "Nos Estados Unidos pós-apocalíptico, um pequeno grupo de sobreviventes segue viajando à procura de uma nova casa longe dos mortos-vivos. O desespero por segurança e suprimentos os coloca constantemente à beira da sanidade.",
+            "first_air_date": "2010-10-31",
+            "id": 1402,
+            "vote_count": 10711,
+            "original_name": "The Walking Dead",
+            "origin_country": [
+                "US"
+            ],
+            "genre_ids": [
+                10759,
+                18,
+                10765
+            ],
+            "name": "The Walking Dead",
+            "original_language": "en",
+            "backdrop_path": "/uro2Khv7JxlzXtLb8tCIbRhkb9E.jpg",
+            "popularity": 540.719,
+            "media_type": "tv"
+        },
+        {
+            "backdrop_path": "/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
+            "first_air_date": "1999-10-20",
+            "genre_ids": [
+                10759,
+                35,
+                16
+            ],
+            "id": 37854,
+            "name": "One Piece",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "ワンピース",
+            "overview": "Houve um homem que conquistou tudo aquilo que o mundo tinha a oferecer, o lendário Rei dos Piratas, Gold Roger. Capturado e condenado à execução pelo Governo Mundial, suas últimas palavras lançaram legiões aos mares. \"Meu tesouro? Se quiserem, podem pegá-lo. Procurem-no! Ele contém tudo que este mundo pode oferecer!\". Foi a revelação do maior tesouro, o One Piece, cobiçado por homens de todo o mundo, sonhando com fama e riqueza imensuráveis... Assim começou a Grande Era dos Piratas!",
+            "poster_path": "/oag7edI9flSMawmNySEiSEJAbrf.jpg",
+            "vote_average": 8.7,
+            "vote_count": 1999,
+            "popularity": 69.005,
+            "media_type": "tv"
+        },
+        {
+            "original_language": "ja",
+            "poster_path": "/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg",
+            "vote_count": 3332,
+            "overview": "Titãs estão quase exterminando a raça humana. Porém alguns estão dispostos a formar um exército de ataque aos seres assassinos. O jovem Eren, após ver sua mãe ser devorada por um titã, decide que não deixará nenhum deles vivo e buscará sua vingança completa.",
+            "id": 1429,
+            "vote_average": 8.6,
+            "first_air_date": "2013-04-07",
+            "name": "Attack on Titan",
+            "backdrop_path": "/yvKrycViRMQcIgdnjsM5JGNWU4Q.jpg",
+            "original_name": "進撃の巨人",
+            "origin_country": [
+                "JP"
+            ],
+            "genre_ids": [
+                10765,
+                16,
+                10759
+            ],
+            "popularity": 134.416,
+            "media_type": "tv"
+        },
+        {
+            "vote_average": 7.2,
+            "overview": "Após ter visto o futuro, o viajante do tempo Rip Hunter recebe a missão de montar um grupo eclético de heróis e vilões para confrontar uma ameaça invencível - uma que não somente põe em risco o planeta, mas também o tempo.",
+            "first_air_date": "2016-01-21",
+            "vote_count": 1573,
+            "backdrop_path": "/4LTWJ7WNiSk5SUWhRkHT279026o.jpg",
+            "original_name": "DC's Legends of Tomorrow",
+            "genre_ids": [
+                10759,
+                18,
+                10765
+            ],
+            "id": 62643,
+            "original_language": "en",
+            "origin_country": [
+                "US"
+            ],
+            "poster_path": "/xS1BsFVT99uywJRjLZh41KZ1MXX.jpg",
+            "name": "Lendas do Amanhã",
+            "popularity": 154.73,
+            "media_type": "tv"
+        }
+    ]
+}
