@@ -53,7 +53,7 @@ $ yarn start
 
 
 # Rode as bases de dados mockadas. Você precisará rodar cada uma em um terminal distinto
-$ json-server server.json -p 3333
+$ json-server server.json -p 3000
 $ json-server servertv.json -p 8080
 
 
