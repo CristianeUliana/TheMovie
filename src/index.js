@@ -22,7 +22,8 @@ function App () {
   useEffect(() => {
     async function loadFilms() {
       const { data } = await api.get('/results'); 
-      setFilms(data);
+      const dataFilms = data['results']
+      setFilms(dataFilms);
     }
     loadFilms();
   }, []);
@@ -32,7 +33,8 @@ function App () {
   useEffect(() => {
     async function loadTv() {
       const { data } = await apiTv.get('/results');
-      setTv(data);
+      const dataTv = data['results']
+      setTv(dataTv);
     }
     loadTv();
   }, [])
