@@ -24,6 +24,7 @@ function App () {
       const { data } = await api.get('/results'); 
       const dataFilms = data['results']
       setFilms(dataFilms);
+     
     }
     loadFilms();
   }, []);
@@ -35,6 +36,7 @@ function App () {
       const { data } = await apiTv.get('/results');
       const dataTv = data['results']
       setTv(dataTv);
+
     }
     loadTv();
   }, [])
