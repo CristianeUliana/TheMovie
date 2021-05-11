@@ -3,7 +3,7 @@ import { StatusBar, ScrollView, TouchableOpacity } from 'react-native';
 import { useNavigation } from "@react-navigation/native";
 import { useDispatch } from 'react-redux';
 import * as Actions from  '../../store/modules/details/actions';
-
+import SearchBarElement from '../../components/searchBar'
 
 import api from '../../services/api';
 import apiTv from '../../services/apiTv';
@@ -21,6 +21,7 @@ import {
 
 
 function Catalog () {
+
   const navigation = useNavigation();
   const dispatch = useDispatch();
 
@@ -61,6 +62,7 @@ function Catalog () {
       <TextContainer>
         <PageText>TRENDINGS</PageText>
       </TextContainer>
+      {/* <SearchBarElement /> */}
       <ScrollView>
         <SectionContainer>
           <SectionText>movies</SectionText>
