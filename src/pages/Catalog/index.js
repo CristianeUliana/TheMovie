@@ -52,9 +52,7 @@ function Catalog () {
 
   function handleGetDetails(id, mediaType) {
     dispatch(Actions.detailsRequest(id, mediaType));
-    navigation.navigate('Details')
-    // console.log(id);
-    // console.log(mediaType);
+    navigation.navigate('Details', {itemId: id})
   }
 
   return(

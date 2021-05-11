@@ -10,18 +10,12 @@ function* getDetails({id, mediaType}) {
     const filmExists = yield select((state) => 
     state.details.find((film) => film.id == id)
     );
-    console.log(id)
-    console.log(mediaType)
-    if (filmExists) {
-        yield put(showDetails(film))
-
-    } else {
+    
+    if (!filmExists) {
         
         const response = yield call(apiDetails.get);
 
         const data = response.data
-
-        console.log(data)
 
         yield put(showDetails(data))
         

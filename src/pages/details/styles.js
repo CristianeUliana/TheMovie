@@ -25,7 +25,7 @@ export const TextTitle = styled.Text`
     margin-top: 10px
 `;
 
-export const TextOriginalTilte = styled.Text`
+export const TextOriginalTitle = styled.Text`
     color: #777;
     font-size: 14px;
     font-style: italic;
