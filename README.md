@@ -52,14 +52,15 @@ $ yarn start
 
 
 
-# Rode as bases de dados mockadas. Você precisará rodar cada uma em um terminal distinto
-$ json-server server.json -p 3000
-$ json-server servertv.json -p 8080
-
-
-
 # Rode o simulador no terminar do VSCode
 $ yarn ios --simulator="iPhone 8"
+
+
+
+# Caso queira utilizar as bases de dados mockadas, você precisará rodar cada comando em um terminal distinto:
+$ json-server server.json -p 3000
+$ json-server servertv.json -p 8080
+# Não esqueça de alterar o caminho da api nos arquivos da pasta services
 ```
 
  
