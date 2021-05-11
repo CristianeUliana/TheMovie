@@ -1,6 +1,6 @@
 import styled from 'styled-components/native';
 
-export const Container = styled.SafeAreaView`
+export const Container = styled.View`
     flex: 1;
     align-items: center;
     background-color: #000000;
@@ -8,13 +8,14 @@ export const Container = styled.SafeAreaView`
 
 export const PosterImage = styled.Image`
     width: 100%;
-    height: 35%;
+    height: 40%;
 `;
 
 export const TextContainer = styled.View`
     margin-top: 20px;
-    width: 90%;
+    width: 100%;
     height: auto;
+    padding-horizontal: 15px;
 `;
 
 export const TextTitle = styled.Text`
@@ -22,7 +23,7 @@ export const TextTitle = styled.Text`
     font-size: 23px;
     font-weight: 700;
     letter-spacing: 3px;
-    margin-top: 10px
+    margin-top: 5px
 `;
 
 export const TextOriginalTitle = styled.Text`
@@ -31,7 +32,6 @@ export const TextOriginalTitle = styled.Text`
     font-style: italic;
     margin-top: 10px
 `;
-
 
 export const TextOverviewTitle = styled.Text`
     color: #F8F8FF;
@@ -53,4 +53,5 @@ export const TextRating = styled.Text`
     font-size: 15px;
     font-style: italic;
     margin-top: 30px
+    margin-bottom: 30px
 `;

@@ -50,9 +50,9 @@ function Catalog () {
 
   const url = 'https://image.tmdb.org/t/p/w500';
 
-  function handleGetDetails(id, mediaType) {
-    dispatch(Actions.detailsRequest(id, mediaType));
-    navigation.navigate('Details', {itemId: id})
+  function handleGetDetails(item) {
+    dispatch(Actions.detailsRequest(item));
+    navigation.navigate('Details', {itemId: item.id})
   }
 
   return(
@@ -71,7 +71,7 @@ function Catalog () {
           directionalLockEnabled='true'
           horizontal={true}
           renderItem={({item}) => (
-            <TouchableOpacity onPress={() => {handleGetDetails(item.id, item.media_type)}}> 
+            <TouchableOpacity onPress={() => {handleGetDetails(item)}}> 
               <PosterImage source={{uri: url+item.poster_path}} />
             </TouchableOpacity>
           )
@@ -86,7 +86,7 @@ function Catalog () {
           directionalLockEnabled='true'
           horizontal={true}
           renderItem={({item}) => (
-            <TouchableOpacity onPress={() => {navigation.navigate('Details')}}> 
+            <TouchableOpacity onPress={() => {handleGetDetails(item)}}> 
               <PosterImage source={{uri: url+item.poster_path}} />
             </TouchableOpacity>
           )

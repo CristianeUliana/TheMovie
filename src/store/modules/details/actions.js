@@ -1,8 +1,7 @@
-export function detailsRequest(id, mediaType) {
+export function detailsRequest(item) {
     return{
         type: '@films/DETAILS_REQUEST',
-        id,
-        mediaType,
+        item,
     };
 }
 
