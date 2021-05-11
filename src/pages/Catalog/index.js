@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { StatusBar, ScrollView, TouchableOpacity } from 'react-native';
 import { useNavigation } from "@react-navigation/native";
+import { useDispatch } from 'react-redux';
+import * as Actions from  '../../store/modules/details/actions';
 
 
 import api from '../../services/api';
@@ -20,6 +22,7 @@ import {
 
 function Catalog () {
   const navigation = useNavigation();
+  const dispatch = useDispatch();
 
   const [films, setFilms] = useState([]);
 
@@ -47,6 +50,13 @@ function Catalog () {
 
   const url = 'https://image.tmdb.org/t/p/w500';
 
+  function handleGetDetails(id, mediaType) {
+    dispatch(Actions.detailsRequest(id, mediaType));
+    navigation.navigate('Details')
+    // console.log(id);
+    // console.log(mediaType);
+  }
+
   return(
     <Container>
       <StatusBar barStyle='light-content' />
@@ -63,8 +73,8 @@ function Catalog () {
           directionalLockEnabled='true'
           horizontal={true}
           renderItem={({item}) => (
-            <TouchableOpacity onPress={() => {navigation.navigate('Details')}}> 
-              <PosterImage source={{uri: 'https://image.tmdb.org/t/p/w500'+item.poster_path}} />
+            <TouchableOpacity onPress={() => {handleGetDetails(item.id, item.media_type)}}> 
+              <PosterImage source={{uri: url+item.poster_path}} />
             </TouchableOpacity>
           )
         }
@@ -79,7 +89,7 @@ function Catalog () {
           horizontal={true}
           renderItem={({item}) => (
             <TouchableOpacity onPress={() => {navigation.navigate('Details')}}> 
-              <PosterImage source={{uri: 'https://image.tmdb.org/t/p/w500'+item.poster_path}} />
+              <PosterImage source={{uri: url+item.poster_path}} />
             </TouchableOpacity>
           )
         }
